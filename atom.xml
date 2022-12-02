@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>106 - RIP WIKI</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-11-11T06:54:48.023Z</updated>
+  <id>http://example.com/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello 106-RIP</title>
+    <link href="http://example.com/2022/11/11/Hello-106/"/>
+    <id>http://example.com/2022/11/11/Hello-106/</id>
+    <published>2022-11-11T22:50:18.000Z</published>
+    <updated>2022-11-11T06:54:48.023Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="说在前面"><a href="#说在前面" class="headerlink" title="说在前面"></a>说在前面</h1><p>也许有很多人对这个新的sb东西有许多疑问，本Wiki的第一个页面准备了一些QA以供查阅，看完这些大概就能了解这里了。</p><h2 id="Q-x2F-A"><a href="#Q-x2F-A" class="headerlink" title="Q&#x2F;A"></a>Q&#x2F;A</h2><h2 id="什么是R-I-P？"><a href="#什么是R-I-P？" class="headerlink" title="什么是R.I.P？"></a>什么是R.I.P？</h2><p>R.I.P是指rest in peace,在本wiki中记录sb学校里的故事</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;说在前面&quot;&gt;&lt;a href=&quot;#说在前面&quot; class=&quot;headerlink&quot; title=&quot;说在前面&quot;&gt;&lt;/a&gt;说在前面&lt;/h1&gt;&lt;p&gt;也许有很多人对这个新的sb东西有许多疑问，本Wiki的第一个页面准备了一些QA以供查阅，看完这些大概就能了解这里了。&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
